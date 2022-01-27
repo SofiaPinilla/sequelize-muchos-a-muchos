@@ -4,7 +4,12 @@
     "password": null,
     "database": "nombre de tu base de datos",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "jwt_secret":"secretito",
+    "AUTH": {
+      "user": "thebridgeclase@gmail.com",
+      "pass": "mimamamamemima123"
+  }
   },
   "test": {
     "username": "root",
